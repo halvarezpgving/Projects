@@ -1,12 +1,13 @@
 ﻿<Properties StartupConfiguration="{6A69E3E6-9AA0-4833-87E7-4764F4B9AEFD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Moly-Cop_ExpressMobile/view/respas.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Moly-Cop_ExpressMobile/view/Moly_copIng.xaml">
     <Files>
       <File FileName="Moly-Cop_ExpressMobile/view/Reg.cs" Line="43" Column="1" />
-      <File FileName="Moly-Cop_ExpressMobile/view/Login.cs" Line="32" Column="11" />
-      <File FileName="Moly-Cop_ExpressMobile/view/Moly-Cop_ExpressMobilePage.xaml" Line="21" Column="15" />
+      <File FileName="Moly-Cop_ExpressMobile/view/Login.cs" Line="12" Column="62" />
+      <File FileName="Moly-Cop_ExpressMobile/view/Moly-Cop_ExpressMobilePage.xaml" Line="19" Column="17" />
       <File FileName="Moly-Cop_ExpressMobile/view/UtilList.cs" Line="12" Column="47" />
-      <File FileName="Moly-Cop_ExpressMobile/view/Moly-Cop_ExpressMobilePage.xaml.cs" Line="26" Column="2" />
-      <File FileName="Moly-Cop_ExpressMobile/view/respas.cs" Line="24" Column="42" />
+      <File FileName="Moly-Cop_ExpressMobile/view/Moly-Cop_ExpressMobilePage.xaml.cs" Line="7" Column="5" />
+      <File FileName="Moly-Cop_ExpressMobile/view/respas.cs" Line="21" Column="13" />
+      <File FileName="Moly-Cop_ExpressMobile/view/Moly_copIng.xaml" Line="20" Column="40" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
