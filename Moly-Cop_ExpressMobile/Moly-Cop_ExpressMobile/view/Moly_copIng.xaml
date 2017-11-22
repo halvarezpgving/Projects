@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MolyCop_ExpressMobile.view.Moly_copIng">
+<Grid >
+  <Grid.RowDefinitions>
+    <RowDefinition  Height="40*" />
+    <RowDefinition Height="25*" />
+    <RowDefinition Height="25*" />
+    <RowDefinition Height="10*" />
+  </Grid.RowDefinitions>
+  <Grid.ColumnDefinitions>
+    <ColumnDefinition Width="*" />
+    <ColumnDefinition Width="*" />
+    <ColumnDefinition Width="*" />
+  </Grid.ColumnDefinitions>
+
+       <Label Text="logo" Grid.Row="0"/>
+        <Label Text="bt1" Grid.Row="1" Grid.Column="0"/>
+        <Label Text="bt2" Grid.Row="1" Grid.Column="1"/>
+        <Label Text="bt3" Grid.Row="1" Grid.Column="2"/>
+        <Label Text="bt4" Grid.Row="2" Grid.Column="0"/>
+        <Label Text="bt5" Grid.Row="2" Grid.Column="1"/>
+        <Label Text="bt6" Grid.Row="2" Grid.Column="2"/>
+        
+</Grid>  
+</ContentPage>
