@@ -47,11 +47,11 @@
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/bin/iPhoneSimulator/Debug/zh-HK/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/bin/iPhoneSimulator/Debug/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/bin/iPhoneSimulator/Debug/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
-/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
-/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
-/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
-/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/Moly-Cop_ExpressMobile.iOS.csprojResolveAssemblyReference.cache
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/Moly-Cop_ExpressMobile.iOS.csproj.CoreCompileInputs.cache
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/Moly-Cop_ExpressMobile.iOS.exe
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/Moly-Cop_ExpressMobile.iOS.pdb
+/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/ibtool/_BundleResourceWithLogicalName.items
+/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_PartialAppManifest.items
+/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/actool/_BundleResourceWithLogicalName.items
+/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.1/optimized/

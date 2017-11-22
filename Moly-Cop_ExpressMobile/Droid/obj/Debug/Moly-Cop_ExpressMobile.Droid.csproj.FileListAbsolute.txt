@@ -26,10 +26,14 @@
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Xaml.dll
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Moly-Cop_ExpressMobile.pdb
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/FormsViewGroup.pdb
+/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/FormsViewGroup.dll.mdb
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Core.pdb
+/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Core.xml
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Platform.Android.pdb
+/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Xaml.pdb
+/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Xaml.xml
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/obj/Debug/Moly-Cop_ExpressMobile.Droid.csprojResolveAssemblyReference.cache
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/obj/Debug/Moly-Cop_ExpressMobile.Droid.csproj.CoreCompileInputs.cache
@@ -45,7 +49,3 @@
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/obj/Debug/res/drawable-xxhdpi/icon.png
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/obj/Debug/R.cs.flag
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/obj/Debug/uploadflags.txt
-/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/FormsViewGroup.dll.mdb
-/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Core.dll.mdb
-/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Platform.Android.dll.mdb
-/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Droid/bin/Debug/Xamarin.Forms.Xaml.dll.mdb

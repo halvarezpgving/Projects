@@ -9,10 +9,10 @@
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/bin/Debug/Xamarin.Forms.Xaml.pdb
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/bin/Debug/Xamarin.Forms.Xaml.dll.mdb
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/bin/Debug/Xamarin.Forms.Xaml.xml
-/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/obj/Debug/Moly-Cop_ExpressMobile.csprojResolveAssemblyReference.cache
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/obj/Debug/Moly-Cop_ExpressMobile.csproj.CoreCompileInputs.cache
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/obj/Debug/MolyCop_ExpressMobile.App.xaml.g.cs
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/obj/Debug/MolyCop_ExpressMobile.view.Moly-Cop_ExpressMobilePage.xaml.g.cs
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/obj/Debug/MolyCop_ExpressMobile.view.Moly_copIng.xaml.g.cs
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/obj/Debug/Moly-Cop_ExpressMobile.dll
 /Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/obj/Debug/Moly-Cop_ExpressMobile.pdb
+/Users/desarrollo/Projects/Moly-Cop_ExpressMobile/Moly-Cop_ExpressMobile/obj/Debug/Moly-Cop_ExpressMobile.csprojResolveAssemblyReference.cache

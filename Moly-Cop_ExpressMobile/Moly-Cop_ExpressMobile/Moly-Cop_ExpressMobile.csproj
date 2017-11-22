@@ -66,6 +66,7 @@
     <Compile Include="view\Utilities\Utilities_Std_Sieve_Series.cs" />
     <Compile Include="view\Utilities\Utilities_Storage_Capacity_3_Wall_Bin.cs" />
     <Compile Include="view\Utilities\Utilities_Storage_Capacity_4_Wall_Bin.cs" />
+    <Compile Include="view\respas.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="view\" />

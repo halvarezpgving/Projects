@@ -8,7 +8,7 @@ namespace MolyCop_ExpressMobile
         {
             InitializeComponent();
 
-            MainPage = new Moly_Cop_ExpressMobilePage();
+            MainPage = new NavigationPage(new Moly_Cop_ExpressMobilePage());
 
         }
 

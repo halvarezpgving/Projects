@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" xmlns:local="clr-namespace:MolyCop_ExpressMobile" x:Class="MolyCop_ExpressMobile.Moly_Cop_ExpressMobilePage">
-<Grid >
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+    xmlns:local="clr-namespace:MolyCop_ExpressMobile" 
+    x:Class="MolyCop_ExpressMobile.Moly_Cop_ExpressMobilePage">
+
+    <Grid >
   <Grid.RowDefinitions>
     <RowDefinition  Height="10*" />
     <RowDefinition  Height="80*" />
-    <RowDefinition Height="10*" />
+    <RowDefinition Height="10*"  />
   </Grid.RowDefinitions>
   <Grid.ColumnDefinitions>
-    <ColumnDefinition Width="50*" />
+    <ColumnDefinition Width="50*"  />
     <ColumnDefinition Width="50*" />
   </Grid.ColumnDefinitions>
-        
-        <Button x:Name="log" Grid.Column="1" Grid.Row="2" Text="Log In" />   
-        <Button x:Name="Create" Grid.Column="0" Grid.Row="2" Text="Create Account" />  
-
-</Grid>  
+        <Image Source="img/LOGO.png" Grid.Row="1"/>
+        <Button BackgroundColor="#D14218"   x:Name="log" Clicked="logn" Grid.Column="1" Grid.Row="2" Text="Log In" TextColor="White" FontSize="25" />   
+        <Button BackgroundColor="#D14218" x:Name="Create" Clicked="crac" Grid.Column="0" Grid.Row="2" Text="Create Account" TextColor="White" FontSize="22"  />  
+  </Grid>  
 </ContentPage>

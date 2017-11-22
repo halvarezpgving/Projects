@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="MolyCop_ExpressMobile.view.Moly_copIng">
-<Grid >
+
+    <Grid  >
+
   <Grid.RowDefinitions>
-    <RowDefinition  Height="40*" />
-    <RowDefinition Height="25*" />
-    <RowDefinition Height="25*" />
+    <RowDefinition Height="44*" />
+    <RowDefinition Height="23*" />
+    <RowDefinition Height="23*" />
     <RowDefinition Height="10*" />
+
   </Grid.RowDefinitions>
   <Grid.ColumnDefinitions>
     <ColumnDefinition Width="*" />
@@ -13,13 +16,13 @@
     <ColumnDefinition Width="*" />
   </Grid.ColumnDefinitions>
 
-       <Label Text="logo" Grid.Row="0"/>
-        <Label Text="bt1" Grid.Row="1" Grid.Column="0"/>
-        <Label Text="bt2" Grid.Row="1" Grid.Column="1"/>
-        <Label Text="bt3" Grid.Row="1" Grid.Column="2"/>
-        <Label Text="bt4" Grid.Row="2" Grid.Column="0"/>
-        <Label Text="bt5" Grid.Row="2" Grid.Column="1"/>
-        <Label Text="bt6" Grid.Row="2" Grid.Column="2"/>
+       
+        <Button XAlign="Center" Text="Plant" Grid.Row="1" Grid.Column="0"/>
+        <Button XAlign="Center" Text="Product Portfolio" Grid.Row="1" Grid.Column="1"/>
+        <Button XAlign="Center" Text="Technical Specs" Grid.Row="1" Grid.Column="2"/>
+        <Button XAlign="Center" Text="Quality" Grid.Row="2" Grid.Column="0"/>
+        <Button XAlign="Center" Text="Moly-Coop Tools Utilities" Grid.Row="2" Grid.Column="1"/>
+        <Button XAlign="Center" Text="Corporate Videos" Grid.Row="2" Grid.Column="2"/>
         
 </Grid>  
 </ContentPage>
