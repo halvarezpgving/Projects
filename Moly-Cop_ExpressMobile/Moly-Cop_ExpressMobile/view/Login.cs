@@ -12,7 +12,7 @@ namespace MolyCop_ExpressMobile.view
             var btncre = new Button { Text = "Create Account" };
             var us = new Entry { Placeholder = "example@example.com" };
             var pa = new Entry { Placeholder = "password" };
-            var restPas = new Button { Text = "Forgot Your Password?" };
+            var restPas = new Button { Text = "Forgot Your Password?",TextColor=Color.FromHex("7D7C7B"), BackgroundColor=Color.Transparent };
             var grid = new Grid();
             grid.RowDefinitions.Add(new RowDefinition { Height = new GridLength(30, GridUnitType.Star) });
             grid.RowDefinitions.Add(new RowDefinition { Height = new GridLength(10, GridUnitType.Star) });

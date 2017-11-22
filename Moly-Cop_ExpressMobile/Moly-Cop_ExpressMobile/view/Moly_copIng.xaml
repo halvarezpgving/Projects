@@ -17,12 +17,12 @@
   </Grid.ColumnDefinitions>
 
        
-        <Button XAlign="Center" Text="Plant" Grid.Row="1" Grid.Column="0"/>
-        <Button XAlign="Center" Text="Product Portfolio" Grid.Row="1" Grid.Column="1"/>
-        <Button XAlign="Center" Text="Technical Specs" Grid.Row="1" Grid.Column="2"/>
-        <Button XAlign="Center" Text="Quality" Grid.Row="2" Grid.Column="0"/>
-        <Button XAlign="Center" Text="Moly-Coop Tools Utilities" Grid.Row="2" Grid.Column="1"/>
-        <Button XAlign="Center" Text="Corporate Videos" Grid.Row="2" Grid.Column="2"/>
+        <Button XAlign="Center" BackgroundColor="#D14218" Text="Plant" Grid.Row="1" Grid.Column="0"/>
+        <Button XAlign="Center" BackgroundColor="#D14218" Text="Product Portfolio" Grid.Row="1" Grid.Column="1"/>
+        <Button XAlign="Center" BackgroundColor="#D14218" Text="Technical Specs" Grid.Row="1" Grid.Column="2"/>
+        <Button XAlign="Center" BackgroundColor="#D14218" Text="Quality" Grid.Row="2" Grid.Column="0"/>
+        <Button XAlign="Center" BackgroundColor="#D14218" Text="Moly-Coop Tools Utilities" Grid.Row="2" Grid.Column="1"/>
+        <Button XAlign="Center" BackgroundColor="#D14218" Text="Corporate Videos" Grid.Row="2" Grid.Column="2"/>
         
 </Grid>  
 </ContentPage>
